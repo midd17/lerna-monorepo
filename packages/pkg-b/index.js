@@ -1,2 +1,2 @@
 require('pkg-a');
-console.log(2);
+console.log(3);
